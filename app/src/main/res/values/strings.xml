@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Cmpe277-Assignment1</string>
+    <string name="dialog_text">Simple Dialog</string>
+    <string name="btn_finish_dialog_label">Close</string>
+</resources>
